@@ -1,0 +1,628 @@
+﻿
+<!DOCTYPE HTML>
+<!--
+Design by http://www.iWebsiteTemplate.com
+Released for free under a Creative Commons Attribution 3.0 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<META NAME="DESCRIPTION" CONTENT="Accompagnement, formation, audit en paie, ressources humaines et protection sociale">
+		<link rel="icon" type="image/png" href="/images/Favicon.ico" />
+		<META NAME="ROBOTS" CONTENT="All">
+<link rel="icon" type="image/png" href="images/favicon.png" />
+<title>Société C2V - Formations</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="js/css/start/jquery-ui-1.8.11.custom.css">
+<script type="text/javascript" src="js/js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="js/js/jquery-ui-1.8.11.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery-bgpos.js"></script>
+
+<script>
+$(function() {
+	$( "#tabs" ).tabs();
+});
+</script>
+
+</head>
+<body>
+
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+	  <li> <img  alt="logo" id="logo" src="images/logo.png"/></li>
+          <li><a href="accueil">ACCUEIL</a></li>
+	  <li><a href="prestations">PRESTATIONS</a></li>
+	  <li><a href="tarifs">TARIFICATIONS</a></li>
+	  <li class="active"><a href="formations">FORMATIONS</a></li>
+          <li><a href="apropos">QUI SOMMES NOUS ?</a></li>
+          <li><a href="contact">NOUS CONTACTER</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+
+
+	<div class="article ttr" >
+	  <br/>
+
+	    <div class="demo">
+
+	      <div id="tabs">
+		<ul>
+			<li><a href="#tabs-1">Gestion du personnel</a></li>
+			<li><a href="#tabs-2">Animation de réunion</a></li>
+			<li><a href="#tabs-3">Bulletin de salaire et charges sociales</a></li>
+			<li><a href="#tabs-4">Les absences</a></li>
+			<li><a href="#tabs-5">Les contrats de travail</a></li>
+			<li><a href="#tabs-6">La durée du travail</a></li>
+			<li><a href="#tabs-7">Les après-midi d'actualité sociale</a></li>
+			<li><a href="#tabs-8">Tarif et informations pratiques</a></li>
+			<li><a href="#tabs-9">Bulletin d'inscription</a></li>
+			<li><a href="#tabs-10">Calendrier</a></li>
+		</ul>
+
+	      <div id="tabs-1">
+
+		      <TABLE style="border:0;" class="tab">
+			<TR>
+		      <td class="blu"><b>Objectifs</b></td>
+			<td class="blu"><b>Public</b></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Savoir mettre en pratique les bases du droit du travail</td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Dirigeant d'entreprise ou d'association</td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Connaître certaines règles juridiques et administratives de la gestion du personnel</td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Conjoint collaborateur/associé/salarié</td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Comprendre le bulletin de paie dans sa structure globale </td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Secrétaire administratif</td>
+			</TR>				
+			<TR>
+		      <td><b class="blu">Durée : </b> 3 jours</td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Responsable administratif et/ou du personnel débutant dans la fonction </td>
+			</TR>	
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>	
+			<td colspan="2" style="text-align:center;"  class="blu"><b>PARTIE I</b></td> 
+			</TR>
+			
+			<TR>
+		      <td class="blu"><b>Les règles fondamentales du droit du travail</b></td>
+			</TR>
+			<TR>
+		      <td colspan="2"  style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Les règles applicables à l'entreprise : loi, convention collective et accords collectifs, usages et contrats de travail</td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Les différentes étapes de la vie du contrat de travail : embauche, choix des contrats et rupture des contrats de travail</td>
+			</TR>
+			<TR>
+			<td colspan="2" style="text-align:center;"  class="blu"><br/><b>PARTIE II</b></td> 
+			</TR>
+			<TR>
+		      <td class="blu"><b>La durée et l'aménagement du temps de travail</b></td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Durée légale</td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Heures complémentaires et heures supplémentaires (risques en cas de non-respect)</td>
+			</TR>
+			<TR>
+			<td colspan="2" style="text-align:center;"  class="blu"><br/><b>PARTIE III</b></td> 
+			</TR>
+			<TR>
+		      <td class="blu"><b>La gestion administrative du personnel </b></td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> L'affichage et les registres obligatoires</td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Les congés payés</td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Les absences</td>
+			</TR>
+
+			<TR>
+		      <td class="blu"><b>L'essentiel sur la paie et sa gestion</b></td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Le bulletin de paie : les différentes rubriques, les charges sociales </td>
+			</TR>
+			<TR>
+		      <td  colspan="2" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> La rémunération : salaire de base et compléments </td>
+			</TR>
+
+		      </TABLE> 
+
+	</div>
+
+	<div id="tabs-2">
+
+		  <TABLE style="border:0;" class="tab">
+
+			<TR>
+		      <td class="blu"><b>Objectifs</b></td>
+			<td class="blu"><b>Public</b></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Mener efficacement une réunion </td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Toute personne ayant à animer une réunion</td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Assurer la réussite de ses réunions par une bonne préparation</td>
+			<td></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Utiliser à bon escient les techniques d'animation de réunion </td>
+			<td></td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>				
+			<TR>
+		      <td><b class="blu">Durée : </b> une journée</td>
+			<td></td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td class="blu"><b>contenu</b></td>
+			</TR>
+
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Préparer la réunion </td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Structurer et préparer la réunion</td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Animer le groupe</td>
+			</TR>				
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gérer les moments difficiles</td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> L'après réunion </td>
+			</TR>	
+		      </TABLE> 
+
+	</div>
+
+	<div id="tabs-3">
+
+		  <TABLE style="border:0;" class="tab">
+
+			<TR>
+		      <td class="blu"><b>Objectifs</b></td>
+			<td class="blu"><b>Public</b></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Comprendre le bulletin de paie dans sa structuration globale</td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Chef d'entreprise</td>
+			</TR>
+			<TR>
+		      <td></td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Responsable d'association</td>
+			</TR>
+			<TR>
+		      <td><b class="blu">Durée : </b> une journée</td>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Responsable administratif</td>
+			</TR>
+			<TR>
+		      <td></td>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Toute personne souhaitant comprendre le bulletin de salaire et les charges sociales</td>
+			</TR>
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td class="blu"><b>Contenu</b></td>
+			</TR>
+
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Détermination du bulletin de paie</td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Déterminer le salaire brut (salaire de base, primes, retenues, ...)</td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Passer du brut au net (charges salariales et patronales, net imposable)</td>
+			</TR>				
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Verser les salaires et payer les cotisations sociales</td>
+			</TR>
+
+
+		</TABLE> 
+
+	</div>
+
+	<div id="tabs-4">
+
+		  <TABLE style="border:0;" class="tab">
+
+			<TR>
+		      <td class="blu"><b>Objectifs</b></td>
+			<td class="blu"><b>Public</b></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Connaître la législation applicable aux différents types d'absence et de suspension </td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Tout public</td>
+			</TR>
+			<TR>
+		      <td>du contrat de travail </td>
+			<td></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Maîtriser la gestion des absences </td>
+		      <td></td>
+			</TR>
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td><b class="blu">Durée : </b> une journée</td>
+			</TR>
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td class="blu"><b>Contenu</b></td>
+			</TR>
+
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gérer les congés payés et les autres congés : acquisition, prise des congés, incidence des congés sur les paies, ... </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gérer les différents cas de suspension du contrat : maladie, maternité, accident du travail, inaptitude </td>
+			</TR>
+
+		      </TABLE> 
+
+	</div>
+
+	<div id="tabs-5">
+
+		  <TABLE style="border:0;" class="tab">
+
+			<TR>
+		      <td class="blu"><b>Objectifs</b></td>
+			<td class="blu"><b>Public</b></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Savoir choisir le contrat de travail le mieux adapté en fonction de l'organisation,  </td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Tout public</td>
+			</TR>
+			<TR>
+		      <td>des contraintes de coût et des projets de l'entreprise</td>
+			</TR>
+			<TR>
+			<td></td>
+			</TR>
+			<TR>
+				<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Connaître les différentes modalités de gestion des contrats de travail </td>
+			</TR>
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td><b class="blu">Durée : </b> une journée</td>
+			</TR>
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td class="blu"><b>Contenu</b></td>
+			</TR>
+
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Le choix du contrat de travail : spécificités des contrats (CDI, CDD, temps partiel, 1⁄4) </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> La rédaction du contrat de travail : la forme, les différentes clauses obligatoires ou facultatives, ...</td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> La modification du contrat de travail : les avenants </td>
+			</TR>
+		      </TABLE> 
+
+
+	</div>
+
+	<div id="tabs-6">
+
+		  <TABLE style="border:0;" class="tab">
+
+			<TR>
+		      <td class="blu"><b>Objectifs</b></td>
+			<td class="blu"><b>Public</b></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Savoir appliquer le dispositif légal du temps de travail</td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Tout public</td>
+			</TR>
+
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Choisir les options les plus pertinentes en matière d'organisation du temps de travail </td>
+			<td></td>
+			</TR>
+
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gérer efficacement le suivi du temps de travail</td>
+			</TR>
+
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td><b class="blu">Durée : </b> une journée</td>
+			</TR>
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td><b class="blu">Contenu</b></td>
+			</TR>
+
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Le travail effectif et la durée du travail </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Les heures supplémentaires et complémentaires </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Les horaires de travail </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> L'aménagement du temps de travail </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Le suivi et le contrôle du temps de travail </td>
+			</TR>
+
+		      </TABLE> 
+
+	</div>
+
+	<div id="tabs-7">
+
+		  <TABLE style="border:0;" class="tab">
+
+			<TR>
+		      <td class="blu"><b>Objectifs</b></td>
+			<td class="blu"><b>Public</b></td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gagner du temps dans la veille juridique </td>
+			<td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gestionnaire de paie</td>
+			</TR>
+
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Dégager les solutions pratiques à vos questionnements </td>
+			<td></td>
+			</TR>
+
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gérer efficacement le suivi du temps de travail</td>
+			</TR>
+
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td><b class="blu">Durée : </b> Un après-midi par mois de mars à juin et septembre à décembre, soit 4 journées </td>
+			</TR>
+
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td class="blu"><b>Contenu</b></td>
+			</TR>
+
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Analyse des nouveautés législatives et jurisprudentielles </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Partage d'expériences et résolution des difficultés rencontrées par les participants </td>
+			</TR>
+			<TR>
+		      <td colspan="2" ><img alt="bouton" src="images/b2.png" width="9" height="9"/> Réalisation d'études de cas à partir des besoins exprimés  </td>
+			</TR>
+
+
+		      </TABLE> 
+
+	</div>
+
+	<div id="tabs-8">
+
+		  <TABLE style="border:0;" class="tab">
+			<TR>
+			<td class="blu"><b> Formations inter-entreprises</b></td>
+			</TR>
+			<TR>
+		      <td  class="blu" style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/><b> Tarif</b></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" >300€ Par journée et par participant, repas en supplément.</td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/><b class="blu"> Lieu</b></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" >Aigrefeuille dAunis (17)</td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/><b class="blu"> Horaires</b></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" >Journées de formation de 9h à 17h. accueil à 8h45.</td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/><b class="blu"> Stagiaires</b></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" >Nombre de personnes par session : 2 à 6 (maximum).</td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" ><img alt="bouton" src="images/b2.png" width="9" height="9"/><b class="blu"> Déroulement</b></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" >Chaque session est animée par des exercices pratiques. Un support de stage est remis à chaque participant.</td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+			<td class="blu"><b> Formations intra-entreprises</b> </td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;" >Possibilité d'organiser une session interne à l'entreprise, au sein de vos locaux.</td>
+			</TR>
+			<TR>
+		      <td><br/></td>
+			</TR>
+			<TR>
+			<td class="blu"><b> Formalités d'inscription</b></td>
+			</TR>
+			<TR>
+		      <td style="text-indent: 30px;"  class="blu">Devis établi en fonction de vos besoins. </td>
+			</TR>
+
+		      </TABLE> 
+
+	</div>
+	<div id="tabs-9">
+
+		  <TABLE style="border:0;" class="tab">
+
+				<iframe height="650" width="920" src="https://spreadsheets.google.com/spreadsheet/embeddedform?formkey=dEgxRDBIbUEwRE5aRFExYl94QXJzRlE6MQ"></iframe>
+
+		      </TABLE> 
+
+	</div>
+	<div id="tabs-10">
+
+		  <TABLE style="border-collapse:collapse;border:1px solid black;" class="tab">
+
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;"> Intitulé de la formation </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">1ère session </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">2e session </td>
+			</TR>
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;"> Tout ce qu'un responsable doit savoir pour gérer son personnel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;"> Jeudi 5 Avril 2012 <br/> Jeudi 10 Mai 2012 <br/> Mardi 5 Juin 2012</td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;"> Jeudi 6 Septembre 2012 <br/> Jeudi 4 Octobre 2012 <br/> Jeudi 8 Novembre 2012</td>
+			</TR>
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;"> Savoir animer une réunion </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mardi 12 Juin 2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeudi 6 Décembre 2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			</TR>
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;">Comprendre le bulletin de salaire et les charges sociales </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Jeudi 15 Mars 2012 </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Mardi 9 Octobre 2012 </td>
+			</TR>
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;"> Les absences </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Mardi 17 Avril 2012 </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Jeudi 13 Septembre 2012 </td>
+			</TR>
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;"> Les contrats de travail</td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Mardi 15 Mai 2012</td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Jeudi 15 Novembre 2012 </td>
+			</TR>
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;"> La durée du travail </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Jeudi 19 Juillet 2012 </td>
+		      	<td style="border-collapse:collapse;border:1px solid black;text-align:center;">Mardi 11 Décembre 2012  </td>
+			</TR>
+			<TR>
+		      	<td style="border-collapse:collapse;border:1px solid black;"> Les après-midi d'actualité sociale </td>
+		      	<td colspan="2" style="border-collapse:collapse;border:1px solid black;text-align:center;">Jeudi 22 Mars 2012 <br/>
+Jeudi 19 Avril 2012 <br/>
+Mardi 22 Mai 2012 <br/>
+Mardi 19 Juin 2012 <br/>
+Jeudi 20 Septembre 2012 <br/>
+Jeudi 18 Octobre 2012 <br/>
+Mardi 20 Novembre 2012 <br/>
+Mardi 18 Décembre 2012 <br/></td>
+
+			</TR>
+
+		      </TABLE> 
+	</div>
+</div>
+
+	  </div>
+
+        </div>
+
+      </div>
+      
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer_resize">
+            <p class="lf"><a href="mentions_legales">Mentions légales</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &copy; Copyright Societe C2V</p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<!-- Piwik --> 
+ <script type="text/javascript">
+ var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.fqserv.eu/" : "http://piwik.fqserv.eu/");
+ document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+ </script><script type="text/javascript">
+ try {
+ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+ piwikTracker.trackPageView();
+ piwikTracker.enableLinkTracking();
+ } catch( err ) {}
+ </script><noscript><p><img alt="bouton" src="http://piwik.fqserv.eu/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+ <!-- End Piwik Tracking Code -->
+
+</body>
+</html>

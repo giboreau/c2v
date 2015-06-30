@@ -1,0 +1,128 @@
+﻿
+<!DOCTYPE HTML>
+<!--
+Design by http://www.iWebsiteTemplate.com
+Released for free under a Creative Commons Attribution 3.0 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<META NAME="DESCRIPTION" CONTENT="Accompagnement, formation, audit en paie, ressources humaines et protection sociale">
+		<link rel="icon" type="image/png" href="/images/Favicon.ico" />
+		<META NAME="ROBOTS" CONTENT="All">
+<link rel="icon" type="image/png" href="images/favicon.png" />
+<title>Société C2V - Prestations</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="js/css/custom-theme/jquery-ui-1.8.7.custom.css">
+<script type="text/javascript" src="js/js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="js/js/jquery-ui-1.8.11.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery-bgpos.js"></script>
+
+
+
+<script type="text/javascript">
+$(function() {
+	$( "#accordion" ).accordion();
+	$( "#accordion2" ).accordion();
+});
+</script>
+
+<!-- CuFon ends -->
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+	  <li> <img  alt="logo" id="logo" src="images/logo.png"/></li>
+          <li><a href="accueil">ACCUEIL</a></li>
+	  <li class="active"><a href="prestations">PRESTATIONS</a></li>
+	  <li><a href="tarifs">TARIFICATIONS</a></li>
+	  <li><a href="formations">FORMATIONS</a></li>
+          <li><a href="apropos">QUI SOMMES NOUS ?</a></li>
+          <li><a href="contact">NOUS CONTACTER</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article ttr">
+
+<h2><span>Notre offre</span> </h2><div class="clr"></div>
+
+<p><strong>Vous avez besoin de conseils spécifiques et pointus en matière sociale ?
+Nous accompagnons les entreprises afin de répondre à leurs problématiques,
+en toute indépendance.
+Nous proposons aux entreprises de toutes tailles et de tous secteurs
+un ensemble de services :
+</strong></p>
+
+<div>
+	  <div id="accordion" class="acc">
+		  <h3><a href="#">Accompagnement</a></h3>
+		  <div>
+		    <ul>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gestion de la paie et des déclarations sociales (voir <a href="tarifs">tarification)</a></li>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Assistance technique paie et ressources humaines</li>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gestion du temps de travail</li>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Élections des Institutions Représentatives du Personnel</li>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Affichages et registres obligatoires</li>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Bilan social</li>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Bilan retraite, bilan prévoyance et santé du dirigeant et de son conjoint</li>
+			    <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Optimum du dirigeant et de son conjoint (statut et rémunération)</li>
+		    </ul>
+		  </div>
+
+		  <h3><a href="#">Formation</a></h3>
+		  <ul>
+		  <li><b>Exemples de propositions (à adapter en fonctions de vos besoins)</b></li>
+			  
+				  <li><br/><img alt="bouton" src="images/b2.png" width="9" height="9"/> Actu paie</li>
+				  <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Savoir animer une réunion</li>
+				  <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Tout ce qu’un responsable doit savoir pour gérer son personnel</li>
+			  
+		  </ul>
+
+		  <h3><a href="#">Audit</a></h3>
+		  <ul>
+			  <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Audit de conformité sociale, audit des contrats collectifs</li>
+			  <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Audit d’optimisation</li>
+			  <li><img alt="bouton" src="images/b2.png" width="9" height="9"/> Gestion et mise en place du temps de travail</li>
+		  </ul>
+	  </div>
+</div>  
+      
+	</div>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer_resize">
+            <p class="lf"><a href="mentions_legales">Mentions légales</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &copy; Copyright Société C2V</p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.fqserv.eu/" : "http://piwik.fqserv.eu/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://piwik.fqserv.eu/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Tag -->
+
+</body>
+</html>

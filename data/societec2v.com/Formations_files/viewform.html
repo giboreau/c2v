@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!-- saved from url=(0142)https://docs.google.com/forms/d/1irfkB-ZyD27Zsf2SU0SAQd99Xoi9yCcKd0VBcRq0TTs/viewform?embedded=true&formkey=dEgxRDBIbUEwRE5aRFExYl94QXJzRlE6MQ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_jfk2.png" type="image/x-icon">
+
+<meta http-equiv="X-UA-Compatible" content="IE=10; chrome=1;">
+<meta name="fragment" content="!">
+<meta name="viewport" content="width=device-width">
+<!--<base target="_blank">--><base href="." target="_blank">
+<link rel="stylesheet" type="text/css" href="">
+
+<link href="2832176430-formview_embedded_ltr.css" type="text/css" rel="stylesheet">
+<style type="text/css">
+body.ss-base-body {
+  font-family: Verdana;
+  color: #36424f;
+  background: #11345a;
+  margin: 0;
+  padding: 0;
+}
+div.ss-form-container {
+  background: url('//lh3.googleusercontent.com/sU2TWgua_iC_J-D2983-GIr1i_b4xn3WP1xVN80wA_0IR6T-pnnu7ezTy3QoxKhI14T5fqdvj8xkq7sfXSTPrw4=s0') no-repeat;
+  background-color: #dedede;
+  padding: 0 1em 1em;
+  border: 5px solid #0d2644;
+}
+h1.ss-form-title {
+  text-align: center;
+  color: black;
+  margin: 120px 0 0;
+  padding: 0;
+}
+div.ss-form-desc {
+  color: #11345a;
+  border-bottom: 1px dashed #11345a;
+  padding-bottom: 7px;
+  margin-top: 10px;
+}
+label.ss-q-title {
+  padding-bottom: 7px;
+  margin-bottom: 7px;
+}
+h2.ss-section-title {
+  background-color: transparent;
+}
+div.ss-submit div.ss-form-entry {
+  background: none;
+  border: none;
+}
+#navigation-buttons .ss-secondary-text {
+  color: inherit !important;
+}
+#progress-container {
+  background-color: #fff !important;
+  padding: 5px !important;
+}
+.ss-footer {
+  background-color: #fff !important;
+  padding: 5px !important;
+}
+
+</style>
+
+
+
+<style type="text/css">
+      
+    </style>
+<script type="text/javascript">
+      /**
+ * @license
+ *
+ * H5F 1.1.1
+ * See https://github.com/ryanseddon/H5F/ for details.
+ *
+ * Copyright (c) 2013 Ryan Seddon
+ *
+ * Permission is hereby granted, free of charge, to any person
+ * obtaining a copy of this software and associated documentation
+ * files (the "Software"), to deal in the Software without
+ * restriction, including without limitation the rights to use,
+ * copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the
+ * Software is furnished to do so, subject to the following
+ * conditions:
+ *
+ * The above copyright notice and this permission notice shall be
+ * included in all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+ * OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ * NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ * HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+ * WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+ * OTHER DEALINGS IN THE SOFTWARE.
+ */
+(function(e,t){"function"==typeof define&&define.amd?define(t):"object"==typeof module&&module.exports?module.exports=t():e.H5F=t()})(this,function(){var e,t,a,i,n,r,l,s,o,u,d,c,v,p,f,m,b,h,g,y,w,C,N,A,E,$,x=document,k=x.createElement("input"),q=/^[a-zA-Z0-9.!#$%&'*+-\/=?\^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/,M=/[a-z][\-\.+a-z]*:\/\//i,L=/^(input|select|textarea)$/i;return r=function(e,t){var a=!e.nodeType||!1,i={validClass:"valid",invalidClass:"error",requiredClass:"required",placeholderClass:"placeholder",onSubmit:Function.prototype,onInvalid:Function.prototype};if("object"==typeof t)for(var r in i)t[r]===void 0&&(t[r]=i[r]);if(n=t||i,a)for(var s=0,o=e.length;o>s;s++)l(e[s]);else l(e)},l=function(a){var i,r=a.elements,l=r.length,c=!!a.attributes.novalidate;if(g(a,"invalid",o,!0),g(a,"blur",o,!0),g(a,"input",o,!0),g(a,"keyup",o,!0),g(a,"focus",o,!0),g(a,"change",o,!0),g(a,"click",u,!0),g(a,"submit",function(i){return e=!0,t||c||a.checkValidity()?(n.onSubmit.call(a,i),void 0):(w(i),void 0)},!1),!v())for(a.checkValidity=function(){return d(a)};l--;)i=!!r[l].attributes.required,"fieldset"!==r[l].nodeName.toLowerCase()&&s(r[l])},s=function(e){var t=e,a=h(t),n={type:t.getAttribute("type"),pattern:t.getAttribute("pattern"),placeholder:t.getAttribute("placeholder")},r=/^(email|url)$/i,l=/^(input|keyup)$/i,s=r.test(n.type)?n.type:n.pattern?n.pattern:!1,o=p(t,s),u=m(t,"step"),v=m(t,"min"),b=m(t,"max"),g=!(""===t.validationMessage||void 0===t.validationMessage);t.checkValidity=function(){return d.call(this,t)},t.setCustomValidity=function(e){c.call(t,e)},t.validity={valueMissing:a,patternMismatch:o,rangeUnderflow:v,rangeOverflow:b,stepMismatch:u,customError:g,valid:!(a||o||u||v||b||g)},n.placeholder&&!l.test(i)&&f(t)},o=function(e){var t=C(e)||e,a=/^(input|keyup|focusin|focus|change)$/i,r=/^(submit|image|button|reset)$/i,l=/^(checkbox|radio)$/i,u=!0;!L.test(t.nodeName)||r.test(t.type)||r.test(t.nodeName)||(i=e.type,v()||s(t),t.validity.valid&&(""!==t.value||l.test(t.type))||t.value!==t.getAttribute("placeholder")&&t.validity.valid?(A(t,[n.invalidClass,n.requiredClass]),N(t,n.validClass)):a.test(i)?t.validity.valueMissing&&A(t,[n.requiredClass,n.invalidClass,n.validClass]):t.validity.valueMissing?(A(t,[n.invalidClass,n.validClass]),N(t,n.requiredClass)):t.validity.valid||(A(t,[n.validClass,n.requiredClass]),N(t,n.invalidClass)),"input"===i&&u&&(y(t.form,"keyup",o,!0),u=!1))},d=function(t){var a,i,r,l,s,u=!1;if("form"===t.nodeName.toLowerCase()){a=t.elements;for(var d=0,c=a.length;c>d;d++)i=a[d],r=!!i.attributes.disabled,l=!!i.attributes.required,s=!!i.attributes.pattern,"fieldset"!==i.nodeName.toLowerCase()&&!r&&(l||s&&l)&&(o(i),i.validity.valid||u||(e&&i.focus(),u=!0,n.onInvalid.call(t,i)));return!u}return o(t),t.validity.valid},c=function(e){var t=this;t.validationMessage=e},u=function(e){var a=C(e);a.attributes.formnovalidate&&"submit"===a.type&&(t=!0)},v=function(){return E(k,"validity")&&E(k,"checkValidity")},p=function(e,t){if("email"===t)return!q.test(e.value);if("url"===t)return!M.test(e.value);if(t){var i=e.getAttribute("placeholder"),n=e.value;return a=RegExp("^(?:"+t+")$"),n===i?!1:""===n?!1:!a.test(e.value)}return!1},f=function(e){var t={placeholder:e.getAttribute("placeholder")},a=/^(focus|focusin|submit)$/i,r=/^(input|textarea)$/i,l=/^password$/i,s=!!("placeholder"in k);s||!r.test(e.nodeName)||l.test(e.type)||(""!==e.value||a.test(i)?e.value===t.placeholder&&a.test(i)&&(e.value="",A(e,n.placeholderClass)):(e.value=t.placeholder,g(e.form,"submit",function(){i="submit",f(e)},!0),N(e,n.placeholderClass)))},m=function(e,t){var a=parseInt(e.getAttribute("min"),10)||0,i=parseInt(e.getAttribute("max"),10)||!1,n=parseInt(e.getAttribute("step"),10)||1,r=parseInt(e.value,10),l=(r-a)%n;return h(e)||isNaN(r)?"number"===e.getAttribute("type")?!0:!1:"step"===t?e.getAttribute("step")?0!==l:!1:"min"===t?e.getAttribute("min")?a>r:!1:"max"===t?e.getAttribute("max")?r>i:!1:void 0},b=function(e){var t=!!e.attributes.required;return t?h(e):!1},h=function(e){var t=e.getAttribute("placeholder"),a=/^(checkbox|radio)$/i,i=!!e.attributes.required;return!(!i||""!==e.value&&e.value!==t&&(!a.test(e.type)||$(e)))},g=function(e,t,a,i){E(window,"addEventListener")?e.addEventListener(t,a,i):E(window,"attachEvent")&&window.event!==void 0&&("blur"===t?t="focusout":"focus"===t&&(t="focusin"),e.attachEvent("on"+t,a))},y=function(e,t,a,i){E(window,"removeEventListener")?e.removeEventListener(t,a,i):E(window,"detachEvent")&&window.event!==void 0&&e.detachEvent("on"+t,a)},w=function(e){e=e||window.event,e.stopPropagation&&e.preventDefault?(e.stopPropagation(),e.preventDefault()):(e.cancelBubble=!0,e.returnValue=!1)},C=function(e){return e=e||window.event,e.target||e.srcElement},N=function(e,t){var a;e.className?(a=RegExp("(^|\\s)"+t+"(\\s|$)"),a.test(e.className)||(e.className+=" "+t)):e.className=t},A=function(e,t){var a,i,n="object"==typeof t?t.length:1,r=n;if(e.className)if(e.className===t)e.className="";else for(;n--;)a=RegExp("(^|\\s)"+(r>1?t[n]:t)+"(\\s|$)"),i=e.className.match(a),i&&3===i.length&&(e.className=e.className.replace(a,i[1]&&i[2]?" ":""))},E=function(e,t){var a=typeof e[t],i=RegExp("^function|object$","i");return!!(i.test(a)&&e[t]||"unknown"===a)},$=function(e){for(var t=document.getElementsByName(e.name),a=0;t.length>a;a++)if(t[a].checked)return!0;return!1},{setup:r}});
+
+    </script><style></style><style type="text/css"></style>
+</head>
+<body class="ss-base-body" dir="ltr">
+
+
+<div class="ss-form-container"><div class="ss-header-image-container"><div class="ss-header-image-image"><div class="ss-header-image-sizer"></div></div></div>
+<div class="ss-top-of-page"><div class="ss-form-heading"><h1 class="ss-form-title" dir="ltr">Inscription aux formations de C2V</h1>
+<div class="ss-form-desc ss-no-ignore-whitespace" dir="ltr">Nous vous remercions de l'intérêt que vous portez à nos formations. Merci de bien vouloir remplir le formulaire suivant, et nous vous ferons parvenir dans les meilleurs délais une convention de formation.</div>
+
+<div class="ss-required-asterisk" aria-hidden="true">*Obligatoire</div></div></div>
+<div class="ss-form"><form action="https://docs.google.com/forms/d/1irfkB-ZyD27Zsf2SU0SAQd99Xoi9yCcKd0VBcRq0TTs/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
+<div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000003"><div class="ss-q-title">Société
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1000003" value="" class="ss-q-short" id="entry_1000003" dir="auto" aria-label="Société  " title="">
+<div class="error-message" id="940587065_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000000"><div class="ss-q-title">Nom du dirigeant
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1000000" value="" class="ss-q-short" id="entry_1000000" dir="auto" aria-label="Nom du dirigeant  " aria-required="true" required="" title="">
+<div class="error-message" id="598951749_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000001"><div class="ss-q-title">Prénom du dirigeant
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1000001" value="" class="ss-q-short" id="entry_1000001" dir="auto" aria-label="Prénom du dirigeant  " aria-required="true" required="" title="">
+<div class="error-message" id="2018511628_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000009"><div class="ss-q-title">SIRET
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1000009" value="" class="ss-q-short" id="entry_1000009" dir="auto" aria-label="SIRET  " aria-required="true" required="" title="">
+<div class="error-message" id="118029414_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000015"><div class="ss-q-title">Code NAF
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1000015" value="" class="ss-q-short" id="entry_1000015" dir="auto" aria-label="Code NAF  " aria-required="true" required="" title="">
+<div class="error-message" id="607568998_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000004"><div class="ss-q-title">Adresse
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<textarea name="entry.1000004" rows="8" cols="0" class="ss-q-long" id="entry_1000004" dir="auto" aria-label="Adresse  " aria-required="true" required=""></textarea>
+<div class="error-message" id="1628276953_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000005"><div class="ss-q-title">Téléphone
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1000005" value="" class="ss-q-short" id="entry_1000005" dir="auto" aria-label="Téléphone  " title="">
+<div class="error-message" id="1965920513_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item  ss-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000006"><div class="ss-q-title">Adresse mail
+</div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<input type="text" name="entry.1000006" value="" class="ss-q-short" id="entry_1000006" dir="auto" aria-label="Adresse mail  " title="">
+<div class="error-message" id="469430836_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-checkbox"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_997839357"><div class="ss-q-title">Formation(s) choisie(s)
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+
+<ul class="ss-choices ss-choices-required" role="group" aria-label="Formation(s) choisie(s)  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1000007" value="Tout ce qu&#39;un responsable doit savoir pour gérer son personnel" id="group_1000007_1" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">Tout ce qu'un responsable doit savoir pour gérer son personnel</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1000007" value="Savoir animer une réunion" id="group_1000007_2" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">Savoir animer une réunion</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1000007" value="Comprendre le bulletin de salaire et les charges sociales" id="group_1000007_3" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">Comprendre le bulletin de salaire et les charges sociales</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1000007" value="Les absences" id="group_1000007_4" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">Les absences</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1000007" value="Les contrats de travail" id="group_1000007_5" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">Les contrats de travail</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1000007" value="La durée du travail" id="group_1000007_6" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">La durée du travail</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="checkbox" name="entry.1000007" value="Les après-midi d&#39;actualité sociale" id="group_1000007_7" role="checkbox" class="ss-q-checkbox" aria-required="true"></span>
+<span class="ss-choice-label">Les après-midi d'actualité sociale</span>
+</label></li></ul>
+<div class="error-message" id="997839357_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000016"><div class="ss-q-title">Date(s) souhaitée(s)
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<textarea name="entry.1000016" rows="8" cols="0" class="ss-q-long" id="entry_1000016" dir="auto" aria-label="Date(s) souhaitée(s)  " aria-required="true" required=""></textarea>
+<div class="error-message" id="466476309_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-paragraph-text"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1000013"><div class="ss-q-title">Nombre de participants et fonction de chacun
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+<textarea name="entry.1000013" rows="8" cols="0" class="ss-q-long" id="entry_1000013" dir="auto" aria-label="Nombre de participants et fonction de chacun  " aria-required="true" required=""></textarea>
+<div class="error-message" id="404869140_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div>
+</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
+<div dir="ltr" class="ss-item ss-item-required ss-radio"><div class="ss-form-entry">
+<label class="ss-q-item-label" for="entry_1023265941"><div class="ss-q-title">Organisation de la formation
+<label for="itemView.getDomIdToLabel()" aria-label="(Champ obligatoire)"></label>
+<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
+<div class="ss-q-help ss-secondary-text" dir="ltr"></div></label>
+
+<ul class="ss-choices" role="radiogroup" aria-label="Organisation de la formation  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1000008" value="Session réservée à vos salariés, au sein de votre entreprise" id="group_1000008_1" role="radio" class="ss-q-radio" aria-label="Session réservée à vos salariés, au sein de votre entreprise" required="" aria-required="true"></span>
+<span class="ss-choice-label">Session réservée à vos salariés, au sein de votre entreprise</span>
+</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1000008" value="Session multi-entreprises, au sein de nos locaux" id="group_1000008_2" role="radio" class="ss-q-radio" aria-label="Session multi-entreprises, au sein de nos locaux" required="" aria-required="true"></span>
+<span class="ss-choice-label">Session multi-entreprises, au sein de nos locaux</span>
+</label></li></ul>
+<div class="error-message" id="1023265941_errorMessage"></div>
+<div class="required-message">Cette question est obligatoire.</div></div></div></div>
+<input type="hidden" name="draftResponse" value="[,,&quot;-5596504139070396446&quot;]
+">
+<input type="hidden" name="pageHistory" value="0">
+
+
+<input type="hidden" name="fbzx" value="-5596504139070396446">
+
+<div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
+<input type="submit" name="continue" value="Continuer »" id="ss-submit"></td>
+</tr></tbody></table></div></ol></form></div>
+<div class="ss-footer"><div class="ss-attribution"></div>
+<div class="ss-legal"><div class="disclaimer-separator"></div>
+<div class="disclaimer" dir="ltr"><div class="powered-by-logo"><span class="powered-by-text">Fourni par</span>
+<a href="https://www.google.com/forms/about/?utm_source=product&utm_medium=forms_logo&utm_campaign=forms"><div class="ss-logo-container ss-logo-css-container"><div class="ss-logo-image"></div>
+<span class="aria-only-help">Google&nbsp;Forms</span></div></a></div>
+<div class="ss-terms"><span class="disclaimer-msg">Ce contenu n'est ni rédigé, ni cautionné par Google.</span>
+<br>
+<a href="https://docs.google.com/forms/d/1irfkB-ZyD27Zsf2SU0SAQd99Xoi9yCcKd0VBcRq0TTs/reportabuse?source=https://docs.google.com/forms/d/1irfkB-ZyD27Zsf2SU0SAQd99Xoi9yCcKd0VBcRq0TTs/viewform?embedded%3Dtrue%26formkey%3DdEgxRDBIbUEwRE5aRFExYl94QXJzRlE6MQ">Signaler un cas d'utilisation abusive</a>
+-
+<a href="http://www.google.com/accounts/TOS">Conditions d'utilisation</a>
+-
+<a href="http://www.google.com/google-d-s/terms.html">Clauses additionnelles</a></div></div></div></div>
+
+<div id="docs-aria-speakable" class="docs-a11y-ariascreenreader-speakable docs-offscreen" aria-live="assertive" role="region" aria-atomic="" aria-relevant="additions">Compatibilité avec le lecteur d'écran activée. </div></div>
+
+<script type="text/javascript" src="3323831729-formviewer_prd__fr.js"></script>
+<script type="text/javascript">H5F.setup(document.getElementById('ss-form'));
+      _initFormViewer("[50,,[]\n]\n", true);</script></body></html>

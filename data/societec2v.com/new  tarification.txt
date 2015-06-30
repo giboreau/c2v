@@ -1,0 +1,229 @@
+﻿
+<!DOCTYPE HTML>
+<!--
+Design by http://www.iWebsiteTemplate.com
+Released for free under a Creative Commons Attribution 3.0 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<META NAME="DESCRIPTION" CONTENT="Accompagnement, formation, audit en paie, ressources humaines et protection sociale">
+		<link rel="icon" type="image/png" href="/images/Favicon.ico" />
+		<META NAME="ROBOTS" CONTENT="All">
+<link rel="icon" type="image/png" href="images/favicon.png" />
+<title>Société C2V - Tarification</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="js/css/start/jquery-ui-1.8.11.custom.css">
+<script type="text/javascript" src="js/js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="js/js/jquery-ui-1.8.11.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery-bgpos.js"></script>
+
+<script>
+$(function() {
+	$( "#tabs" ).tabs();
+});
+</script>
+
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+	  <li> <img  alt="logo" id="logo" src="images/logo.png"/></li>
+          <li><a href="accueil">ACCUEIL</a></li>
+	  <li><a href="prestations">PRESTATIONS</a></li>
+	  <li class="active"><a href="tarifs">TARIFICATIONS</a></li>
+	  <li><a href="formations">FORMATIONS</a></li>
+          <li><a href="apropos">QUI SOMMES NOUS ?</a></li>
+          <li><a href="contact">NOUS CONTACTER</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+
+
+	<div class="article ttr" >
+	  <br/>
+
+	    <div class="demo">
+
+	      <div id="tabs">
+		<ul>
+			<li><a href="#tabs-1">Etablissement de la paie et de ses périphériques</a></li>
+			<li><a href="#tabs-2">Autres travaux liés à la paie</a></li>
+			<li><a href="#tabs-3">Assistance technique paie et ressources humaines</a></li>
+		</ul>
+	      <div id="tabs-1">
+
+		      <TABLE style="border=0;" class="tab">
+			<TR>
+		      <td>Bulletin de paie et charges sociales</td>
+		      <td>À partir de 13€</td>
+			</TR>
+			<TR>
+		      <td>Bulletin de paie refait ou simulation</td>
+		      <TD>10 €</TD>
+			</TR>
+			<TR>
+		      <td><br/><b>Entrée de salarié</b></td>
+		      <TD></TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Paramétrage informatique</td>
+		      <TD>15 €</TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Déclaration unique d’embauche</td>
+		      <TD>10 €</TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Affiliation à la caisse de prévoyance</td>
+		      <TD>10 €</TD>
+			</TR>
+			<TR>
+		      <td><br/><b>Sortie du salarié</b></td>
+		      <TD></TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Certificat de travail</td>
+		      <TD>10 €</TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Solde de tout compte</td>
+		      <TD>15 €</TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Attestation pôle emploi</td>
+		      <TD>10 €</TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> Portabilité</td>
+		      <TD>10 €</TD>
+			</TR>
+
+			<TR>
+		      <td><br/>Attestation de salaire</td>
+		      <TD><br/>10 €</TD>
+			</TR>
+			<TR>
+		      <td>Reprise de dossier en cours d’année</td>
+		      <TD>forfait 100 €</TD>
+			</TR>
+			<tr>	
+		      		<td colspan="2" ><br/>Un tableau de bord social (récapitulatif annuel des indicateurs sociaux) est établi gratuitement pour toute prestation de paie.</td> 
+			</tr>
+		      </TABLE> 
+	</div>
+	<div id="tabs-2">
+
+		  <TABLE style="border=0;" class="tab">
+			<TR>
+		      <td>Contrat de travail simple</td>
+		      <td>80 €</td>
+			</TR>
+			<TR>
+		      <td>Contrat de travail complexe</td>
+		      <TD>sur devis</TD>
+			</TR>
+
+			<TR>
+		      <td>Avenant au contrat de travail</td>
+		      <TD>40 €</TD>
+			</TR>
+			<TR>
+		      <td>Rupture conventionnelle </td>
+		      <TD>120 €</TD>
+			</TR>
+			<TR>
+		      <td>Droit Individuel à la Formation</td>
+		      <TD>15 € par salarié</TD>
+			</TR>
+			<TR>
+		      <td>Suivi de l’épargne salariale : formalités annuelles &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		      <TD>15 € par salarié</TD>
+			</TR>
+
+
+		      </TABLE> 
+
+	</div>
+	<div id="tabs-3">
+
+		  <TABLE style="border=0;" class="tab">
+		<TR>
+		      <td colspan="2" >Réponses à vos interrogations techniques en matière sociale.  <br/></td>
+		</TR>
+		<TR>
+		      <td colspan="2" ><br/><b>Forfaits annuels :</b></td>
+		</TR>
+			
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> 20 questions</td>
+		      <td>800 €</td>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> 30 questions</td>
+		      <TD>1 160 €</TD>
+			</TR>
+
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> 40 questions</td>
+		      <TD>1 490 €</TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> 50 questions</td>
+		      <TD>1 800 €</TD>
+			</TR>
+			<TR>
+		      <td><img alt="bouton" src="images/b2.png" width="9" height="9"/> 60 questions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		      <TD>2 100 €</TD>
+			</TR>
+
+		      </TABLE> 
+	</div>
+</div>
+
+
+		  
+
+
+	  </div>
+
+        </div>
+
+      </div>
+      
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer_resize">
+            <p class="lf"><a href="mentions_legales">Mentions légales</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &copy; Copyright Societe C2V</p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.fqserv.eu/" : "http://piwik.fqserv.eu/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://piwik.fqserv.eu/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Tag -->
+
+</body>
+</html>

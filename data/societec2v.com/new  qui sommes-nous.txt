@@ -1,0 +1,106 @@
+﻿
+<!DOCTYPE HTML>
+<!--
+Design by http://www.iWebsiteTemplate.com
+Released for free under a Creative Commons Attribution 3.0 License
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<META NAME="DESCRIPTION" CONTENT="Accompagnement, formation, audit en paie, ressources humaines et protection sociale">
+		<link rel="icon" type="image/png" href="/images/Favicon.ico" />
+		<META NAME="ROBOTS" CONTENT="All">
+<link rel="icon" type="image/png" href="images/favicon.png" />
+<title>Société C2V - Qui sommes nous ?</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="js/css/start/jquery-ui-1.8.11.custom.css">
+
+</head>
+<body>
+<div class="main">
+
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+	  <li> <img alt="logo" id="logo" src="images/logo.png"/></li>
+          <li><a href="accueil">ACCUEIL</a></li>
+	  <li><a href="prestations">PRESTATIONS</a></li>
+	  <li><a href="tarifs">TARIFICATIONS</a></li>
+	  <li><a href="formations">FORMATIONS</a></li>
+          <li class="active"><a href="apropos">QUI SOMMES NOUS ?</a></li>
+          <li><a href="contact">NOUS CONTACTER</a></li>
+        </ul>
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article ttr">
+          <br/>
+
+<div class="decal1">
+<ul class="titr1 ui-widget-content ui-corner-all">
+          <li><h3 class="ui-widget-header ui-corner-all pres">Claire VEIZOVIC</h3></li>
+          <li  class="pres"><strong>Diplômée en droit et gestion d’entreprise</strong></li>
+	  <li>Parcours antérieur :</li>
+	  <li>Consultante dans le domaine de l’optimisation du statut et de la protection sociale
+	  du dirigeant, ainsi que de la
+	  politique de rémunération et
+	  de la préparation de la retraite.</li>
+</ul>
+</div>
+
+<div class="decal2">
+<ul class="titr2 ui-widget-content ui-corner-all">
+      <li><h3 class="ui-widget-header ui-corner-all pres">Cendrine VELTHIER</h3></li>
+      <li class="pres"><strong>Diplômée en droit, comptabilité et ressources humaines</strong></li>
+      <li>Parcours antérieur :</li>
+      <li>Responsable d’une équipe de gestionnaires de paie,
+      <li>Consultante/formatrice auprès
+      d’entreprises en matière
+      d’organisation du temps de
+      travail et gestion du personnel.</li>
+      <li>&nbsp;</li>
+</ul>
+</div>
+
+        </div>
+
+
+
+        <div class="article pres ttr2">
+	  <h2><span>Plan d'accès</span> </h2><div class="clr"></div>
+          <iframe id="form" width="525" height="450" src="http://maps.google.fr/maps?hl=fr&amp;q=11+rue+de+l'aunis+aigrefeuille&amp;ie=UTF8&amp;hq=&amp;hnear=11+Rue+de+l'Aunis,+17290+Aigrefeuille-d'Aunis,+Charente-Maritime,+Poitou-Charentes&amp;z=14&amp;ll=46.115435,-0.935075&amp;output=embed"></iframe><br /><small><a href="http://maps.google.fr/maps?hl=fr&amp;q=11+rue+de+l'aunis+aigrefeuille&amp;ie=UTF8&amp;hq=&amp;hnear=11+Rue+de+l'Aunis,+17290+Aigrefeuille-d'Aunis,+Charente-Maritime,+Poitou-Charentes&amp;z=14&amp;ll=46.115435,-0.935075&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
+        </div>
+      </div>
+      
+      <div class="clr"></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer_resize">
+            <p class="lf"><a href="mentions_legales">Mentions légales</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &copy; Copyright Société C2V</p>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.fqserv.eu/" : "http://piwik.fqserv.eu/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://piwik.fqserv.eu/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Tag -->
+
+</body>
+</html>
